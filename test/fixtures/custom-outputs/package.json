@@ -1,0 +1,10 @@
+{
+  "name": "custom-outputs",
+  "main": "./dist/custom-main.js",
+  "module": "./dist/custom-module.js",
+  "unpkg": "./dist/custom-unpkg.js",
+  "exports": "./dist/custom-exports.mjs",
+  "scripts": {
+    "build": "microbundle -f cjs,es,umd,modern"
+  }
+}
