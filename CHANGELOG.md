@@ -1,5 +1,11 @@
 # microbundle
 
+## 0.15.2
+
+### Patch Changes
+
+- [`22187fb`](https://github.com/developit/microbundle/commit/22187fba8a2d404a9f3dc5db357e243cd45e8479) [#999](https://github.com/developit/microbundle/pull/999) Thanks [@marvinhagemeister](https://github.com/marvinhagemeister)! - Fix indentation style in `mangle.json` not preserved
+
 ## 0.15.1
 
 ### Patch Changes
